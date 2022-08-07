@@ -1,0 +1,25 @@
+{
+  "name": "pratica-typescript",
+  "version": "1.0.0",
+  "description": "Resolução de exercícios práticos utilizando TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcCastro/pratica-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcCastro/pratica-typescript/issues"
+  },
+  "homepage": "https://github.com/MarcCastro/pratica-typescript#readme",
+  "dependencies": {
+    "lite": "^4.0.5",
+    "server": "^1.0.37"
+  }
+}
